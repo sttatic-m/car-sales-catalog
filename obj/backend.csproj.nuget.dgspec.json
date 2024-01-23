@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\freela igor\\backend\\backend.csproj": {}
+    "E:\\freela igor\\car-sales-catalog\\backend.csproj": {}
   },
   "projects": {
-    "E:\\freela igor\\backend\\backend.csproj": {
+    "E:\\freela igor\\car-sales-catalog\\backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\freela igor\\backend\\backend.csproj",
+        "projectUniqueName": "E:\\freela igor\\car-sales-catalog\\backend.csproj",
         "projectName": "backend",
-        "projectPath": "E:\\freela igor\\backend\\backend.csproj",
+        "projectPath": "E:\\freela igor\\car-sales-catalog\\backend.csproj",
         "packagesPath": "C:\\Users\\mateu\\.nuget\\packages\\",
-        "outputPath": "E:\\freela igor\\backend\\obj\\",
+        "outputPath": "E:\\freela igor\\car-sales-catalog\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mateu\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,6 +38,16 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[8.0.0-beta.2, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"

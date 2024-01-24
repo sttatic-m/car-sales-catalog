@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "1koLBKyoCQ0BxjPNPJhCCbJVJI3ZxKgl0dOOU5AouWiFWS9YSaQPJUXbM0NUM7rxTtvtprkWfTEWV7gJAs1YHA==",
+  "dgSpecHash": "OqnvsG/1JjwmZYs4NUmGXkYJul20uB/C/Yy8WcD5/UgQanoMy2V2hcNhymaxUsBxu5rk9WTKi4jBm//iyjCuiA==",
   "success": true,
   "projectFilePath": "E:\\freela igor\\car-sales-catalog\\backend.csproj",
   "expectedPackageFiles": [
@@ -16,6 +16,7 @@
     "C:\\Users\\mateu\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.1\\microsoft.entityframeworkcore.analyzers.8.0.1.nupkg.sha512",
     "C:\\Users\\mateu\\.nuget\\packages\\microsoft.entityframeworkcore.design\\8.0.1\\microsoft.entityframeworkcore.design.8.0.1.nupkg.sha512",
     "C:\\Users\\mateu\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\8.0.1\\microsoft.entityframeworkcore.relational.8.0.1.nupkg.sha512",
+    "C:\\Users\\mateu\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\8.0.1\\microsoft.entityframeworkcore.tools.8.0.1.nupkg.sha512",
     "C:\\Users\\mateu\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\mateu\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\mateu\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",

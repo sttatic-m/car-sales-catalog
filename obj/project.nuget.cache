@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "OqnvsG/1JjwmZYs4NUmGXkYJul20uB/C/Yy8WcD5/UgQanoMy2V2hcNhymaxUsBxu5rk9WTKi4jBm//iyjCuiA==",
+  "dgSpecHash": "uOT+YyP/uSJZSVvy/KLPIDrlwOAz8W3qMHs53ZPPiufS3Dd5QpyEjL3wH208I+vZAtcgHmDHZ7fBjB8V+2uejA==",
   "success": true,
   "projectFilePath": "E:\\freela igor\\car-sales-catalog\\backend.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\mateu\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\mateu\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\mateu\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\mateu\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",

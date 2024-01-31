@@ -103,3 +103,4 @@ E:\freela igor\car-sales-catalog\obj\Debug\net8.0\refint\backend.dll
 E:\freela igor\car-sales-catalog\obj\Debug\net8.0\backend.pdb
 E:\freela igor\car-sales-catalog\obj\Debug\net8.0\backend.genruntimeconfig.cache
 E:\freela igor\car-sales-catalog\obj\Debug\net8.0\ref\backend.dll
+E:\freela igor\car-sales-catalog\bin\Debug\net8.0\BCrypt.Net-Next.dll
